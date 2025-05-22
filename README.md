@@ -20,7 +20,7 @@
 
 #### ❗ Xóa theo danh sách txt
 
-Tạo file tên `remove.txt` nhập tên các gói mỗi gói sẽ xuống 1 dòng
+- Tạo file tên `remove.txt` nhập tên các gói mỗi gói sẽ xuống 1 dòng
 
       pip uninstall -r remove.txt
 
