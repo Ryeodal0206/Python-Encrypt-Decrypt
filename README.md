@@ -1,6 +1,8 @@
-# Python Encode_Decode with Password
+<p align="center"><img src="https://github.com/Ryeodal0206/Images/blob/main/python.png?raw=true" alt="Python Logo" width="600"</p>
+    
+<h1><p align="center">Python Encode_Decode with Password</p></h1>
 
-# 1. Kiểm tra hoặc gỡ bỏ các gói cài đặt Python
+## 1. Kiểm tra hoặc gỡ bỏ các gói cài đặt Python
 
 Thư viện : Không cần cài đặt vì mặc định sẵn có của Windows
 
