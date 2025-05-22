@@ -4,13 +4,13 @@
 
 ---
 
-## 1. Kiểm tra hoặc gỡ bỏ các gói cài đặt Python
+## Kiểm tra hoặc gỡ bỏ các gói cài đặt Python
 
 ***- Thư viện : Không cần cài đặt vì mặc định sẵn có của Windows***
 <details>
     <summary>Xem thêm</summary>
     
-### 🛠 Lệnh kiểm tra các gói cài đặt
+#### 🛠 Lệnh kiểm tra các gói cài đặt
 
     pip list
 
