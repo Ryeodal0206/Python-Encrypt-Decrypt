@@ -1,12 +1,74 @@
 <p align="center"><img src="https://github.com/Ryeodal0206/Images/blob/main/python.png?raw=true" alt="Python Logo" width="600"</p>
     
-<h1><p align="center">Python Encode_Decode with Password</p></h1>
+<h1><p align="center">Python Encrypt_Decrypt with Password</p></h1>
+
+## 1. Các thư viện cần cài đặt
+
+- Thư viện GUI thay thế cho tkinter mặc định
+
+      pip install ttkbootstrap cryptography
+
+- Thư viện tạo file `.exe`
+
+        pip install pyinstaller
+
+## 2. Sửa lỗi ***`'python' is not recognized.....`***
+
+- Thêm Python vào hệ thống `PATH` (để gọi Python ở mọi nơi)
+
+- Thêm 2 đường dẫn vào `Environment Variables`
+
+        C:\Users\YTRANG\AppData\Local\Programs\Python\Python313\
+    và
+        
+        C:\Users\YTRANG\AppData\Local\Programs\Python\Python313\Scripts\
+
+- Kiểm tra lại xem đã hoàn thành chưa ***( kiểm tra ở ổ đĩa bất kỳ )***
+
+        python --version
+
+  ## 3. Khởi tạo file `.exe`
+
+- - Không có `icon`
+
+            pyinstaller --noconsole --onefile encrypt_app.py
+    
+- - Có icon
+
+            pyinstaller --noconsole --onefile --icon=image.ico encrypt_app.py
+
+***hoặc***
+
+ - - Không có `icon`
+
+            pyinstaller --windowed --onefile encrypt_app.py
+
+ - - Có `icon`
+ 
+            pyinstaller --windowed --onefile --icon=app_icon.ico encrypt_app.py
+          
+## 4. Đổi màu nút `OK`
+
+- `primary` : ***bootstyle="primary"*** : Xanh lam
+
+- `success` : ***bootstyle="success"*** : Xanh lá
+ 
+- `danger` : ***bootstyle="danger"*** : Đỏ
+   
+- `warning` : ***bootstyle="warning"*** : Vàng
+     
+- `info` : ***bootstyle="info"*** : Xanh nhạt
+
+- `secondary` : ***bootstyle="secondary"*** : Xám
+
+- `dark` : ***bootstyle="dark"*** : Đen nhạt
+ 
+- `light` : ***bootstyle="light"*** : Trắng/xám
 
 ---
 
-## Kiểm tra hoặc gỡ bỏ các gói cài đặt Python
+## Khác
 
-***- Thư viện : Không cần cài đặt vì mặc định sẵn có của Windows***
 <details>
     <summary>Xem thêm</summary>
     
