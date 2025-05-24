@@ -38,6 +38,11 @@
 ---
 
 ## 3. Khởi tạo file `.exe`
+>[!NOTE]
+>
+>- Khi chạy lệnh thì tên tệp `.py` ***không được có dấu cách***
+
+---
 
 - - Không có `icon`
 
