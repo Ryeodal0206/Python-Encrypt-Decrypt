@@ -2,6 +2,8 @@
     
 <h1><p align="center">Python Encrypt_Decrypt with Password</p></h1>
 
+---
+
 ## 1. Các thư viện cần cài đặt
 
 - Thư viện GUI thay thế cho tkinter mặc định
@@ -11,6 +13,8 @@
 - Thư viện tạo file `.exe`
 
         pip install pyinstaller
+
+---
 
 ## 2. Sửa lỗi ***`'python' is not recognized.....`***
 
@@ -27,7 +31,9 @@
 
         python --version
 
-  ## 3. Khởi tạo file `.exe`
+---
+
+## 3. Khởi tạo file `.exe`
 
 - - Không có `icon`
 
@@ -47,6 +53,8 @@
  
             pyinstaller --windowed --onefile --icon=app_icon.ico encrypt_app.py
           
+---
+
 ## 4. Đổi màu nút
 
 - `primary` : ***bootstyle="primary"*** : Xanh lam
