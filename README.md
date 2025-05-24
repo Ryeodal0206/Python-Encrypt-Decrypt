@@ -14,6 +14,10 @@
 
         pip install pyinstaller
 
+- - Nâng cấp lên phiên bản mới
+   
+          pip install --upgrade pyinstaller
+
 ---
 
 ## 2. Sửa lỗi ***`'python' is not recognized.....`***
