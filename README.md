@@ -47,7 +47,7 @@
  
             pyinstaller --windowed --onefile --icon=app_icon.ico encrypt_app.py
           
-## 4. Đổi màu nút `OK`
+## 4. Đổi màu nút
 
 - `primary` : ***bootstyle="primary"*** : Xanh lam
 
