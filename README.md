@@ -6,17 +6,14 @@
 
 ## 1. Các thư viện cần cài đặt
 
-- Thư viện **PBKDF2HMAC** GUI thay thế cho tkinter mặc định
+- Thư viện **PBKDF2HMAC và Argon2-CFFI** GUI thay thế cho tkinter mặc định
 
-      pip install ttkbootstrap cryptography
+      pip install ttkbootstrap cryptography argon2-cffi
+
   
 - - Nâng cấp phiên bản
   
-        pip install --upgrade cryptography
-
-- Thư viện **Argon2-CFFI**
- 
-        pip install argon2-cffi
+        pip install --upgrade ttkbootstrap cryptography argon2-cffi
 
   
 - Thư viện tạo file `.exe`
