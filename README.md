@@ -6,7 +6,7 @@
 
 ## 1. Các thư viện cần cài đặt
 
-- Thư viện **PBKDF2HMAC và Argon2-CFFI** GUI thay thế cho tkinter mặc định
+- Thư viện bảo mật **HMAC-SHA256 và Argon2-CFFI** GUI thay thế cho tkinter mặc định
 
       pip install ttkbootstrap cryptography argon2-cffi
 
