@@ -14,7 +14,7 @@
   
         pip install --upgrade cryptography
 
-- Thư viện argon2-cffi
+- Thư viện **Argon2-CFFI**
  
         pip install argon2-cffi
 
