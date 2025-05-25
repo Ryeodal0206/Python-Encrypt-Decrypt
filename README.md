@@ -6,7 +6,7 @@
 
 ## 1. Các thư viện cần cài đặt
 
-- Thư viện GUI thay thế cho tkinter mặc định
+- Thư viện **PBKDF2** GUI thay thế cho tkinter mặc định
 
       pip install ttkbootstrap cryptography
   
@@ -14,7 +14,11 @@
   
         pip install --upgrade cryptography
 
+- Thư viện argon2-cffi
+ 
+        pip install argon2-cffi
 
+  
 - Thư viện tạo file `.exe`
 
         pip install pyinstaller
