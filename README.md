@@ -9,14 +9,19 @@
 - Thư viện GUI thay thế cho tkinter mặc định
 
       pip install ttkbootstrap cryptography
+  
+- - Nâng cấp phiên bản
+  
+        pip install --upgrade cryptography
+
 
 - Thư viện tạo file `.exe`
 
         pip install pyinstaller
 
 - - Nâng cấp lên phiên bản mới
-   
-          pip install --upgrade pyinstaller
+
+        pip install --upgrade pyinstaller
 
 ---
 
