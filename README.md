@@ -1,6 +1,5 @@
 <p align="center"><img src="https://github.com/Ryeodal0206/Images/blob/main/python.png?raw=true" alt="Python Logo" width="600"</p>
-    
-<h1><p align="center">Python Encrypt_Decrypt with Password</p></h1>
+<h1 align="center">Python Encrypt_Decrypt with Password</h1><br><h2 align="center">Mã hóa và giải mã file với AES-256 bảo vệ bằng mật khẩu và xác thực HMAC</h2>
 
 ---
 
